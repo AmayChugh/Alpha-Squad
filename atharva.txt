@@ -1,0 +1,12 @@
+Topic : Post Surgery Care
+Team name : Alpha Squad
+ 
+Implementation:
+We have our basic pages ready, showing the details about a particular patient after login into its account. The doctor’s dashboard is done which shows the patients’ list under a particular doctor. The database is totally ready with all the required tables in it. It is also been connected to our Laravel project. 
+
+Remaining work:
+The linking of the patient and the doctor side logins is yet to be done. There are some pages yet to be routed and are currently acting independently. 
+
+Future scope:
+We can have an admin as well where the admin would have the authority to allot another doctor to a patient incase the doctor is not available during its patient’s emergency.  
+
